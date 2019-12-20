@@ -1,0 +1,24 @@
+{
+  "name": "express-api-project-1",
+  "version": "1.0.0",
+  "description": "Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "Api built"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amita999/express-Api-project.git"
+  },
+  "author": "Amita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amita999/express-Api-project/issues"
+  },
+  "homepage": "https://github.com/Amita999/express-Api-project#readme",
+  "dependencies": {
+    "@hapi/joi": "^16.1.7",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  }
+}
